@@ -4,4 +4,3 @@ if (!isset($_SESSION['id'])) {
     header("Location: inicio.html");
     exit;
 }
-?>
